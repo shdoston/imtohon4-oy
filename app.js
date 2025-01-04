@@ -1,9 +1,9 @@
 // 1 
-// function unbracketTag(str) {
-//     return str.slice(0, );
-// }
-// let s= unbracketTag('To be or not to be', 'not')
-// console.log(s);
+function unbracketTag(str) {
+    return str.slice(0, );
+}
+let s= unbracketTag('To be or not to be', 'not')
+console.log(s);
 
 // 2
 // let str =   '<div>' 
